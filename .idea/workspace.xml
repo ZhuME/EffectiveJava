@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ae3aae58-c156-4700-ae08-80d6daf070a3" name="Default" comment="" />
+    <list default="true" id="ae3aae58-c156-4700-ae08-80d6daf070a3" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zme/effectiveJava/静态工厂代替构造器/PersonEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zme/effectiveJava/静态工厂代替构造器/PersonEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zme/effectiveJava/静态工厂代替构造器/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zme/effectiveJava/静态工厂代替构造器/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zme/effectiveJava/静态工厂代替构造器/man.class" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,11 +26,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Person.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Person.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/zme/effectiveJava/静态工厂代替构造器/Person.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="36" column="49" lean-forward="true" selection-start-line="36" selection-start-column="49" selection-end-line="36" selection-end-column="49" />
+            <state relative-caret-position="416">
+              <caret line="40" column="10" selection-start-line="40" selection-start-column="10" selection-end-line="42" selection-end-column="51" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#413#414#0" expanded="true" />
@@ -35,6 +40,24 @@
                 <element signature="e#763#764#0" expanded="true" />
                 <element signature="e#793#794#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PersonEnum.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zme/effectiveJava/静态工厂代替构造器/PersonEnum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="440">
+              <caret line="18" column="49" lean-forward="true" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Iec104Message.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zme/effectiveJava/构建器/Iec104Message.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -97,14 +120,20 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/java/com/zme/effectiveJava/静态工厂代替构造器/man.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zme/effectiveJava/静态工厂代替构造器/Person.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zme/effectiveJava/静态工厂代替构造器/PersonEnum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zme/effectiveJava/构建器/Iec104Message.java" />
       </list>
     </option>
   </component>
@@ -123,6 +152,7 @@
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -168,6 +198,15 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="effectiveJava" type="462c0819:PsiDirectoryNode" />
+              <item name="构建器" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="effectiveJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="effectiveJava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="effectiveJava" type="462c0819:PsiDirectoryNode" />
               <item name="静态工厂代替构造器" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -187,6 +226,11 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.zme.effectiveJava.构建器" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -199,9 +243,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.PersonEnum">
     <configuration name="Person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.zme.effectiveJava.静态工厂代替构造器.Person" />
+      <module name="effectiveJava" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zme.effectiveJava.静态工厂代替构造器.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="PersonEnum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zme.effectiveJava.静态工厂代替构造器.PersonEnum" />
       <module name="effectiveJava" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -252,8 +307,13 @@
       <properties />
       <listeners />
     </configuration>
+    <list>
+      <item itemvalue="Application.Person" />
+      <item itemvalue="Application.PersonEnum" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PersonEnum" />
         <item itemvalue="Application.Person" />
       </list>
     </recent_temporary>
@@ -268,12 +328,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1548647194762</updated>
-      <workItem from="1548647201540" duration="5690000" />
+      <workItem from="1548647201540" duration="7601000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5690000" />
+    <option name="totallyTimeSpent" value="7601000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -285,18 +345,18 @@
       <window_info anchor="right" id="Palette&#9;" />
       <window_info id="Image Layers" />
       <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="bottom" id="Event Log" sideWeight="0.50053304" side_tool="true" visible="true" weight="0.32897604" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.50053304" side_tool="true" visible="true" weight="0.3293348" />
       <window_info anchor="right" id="Maven Projects" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.32897604" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.3293348" />
+      <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49837664" visible="true" weight="0.22974414" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.499187" visible="true" weight="0.22974414" />
       <window_info anchor="right" id="Database" />
       <window_info anchor="right" id="BPMNPalette" />
-      <window_info id="Structure" order="1" sideWeight="0.5016234" side_tool="true" visible="true" weight="0.22974414" />
+      <window_info id="Structure" order="1" sideWeight="0.500813" side_tool="true" visible="true" weight="0.22974414" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" />
       <window_info anchor="right" id="Theme Preview" />
@@ -375,8 +435,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/zme/effectiveJava/静态工厂代替构造器/Person.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="36" column="49" lean-forward="true" selection-start-line="36" selection-start-column="49" selection-end-line="36" selection-end-column="49" />
+        <state relative-caret-position="416">
+          <caret line="40" column="10" selection-start-line="40" selection-start-column="10" selection-end-line="42" selection-end-column="51" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#413#414#0" expanded="true" />
@@ -386,6 +446,20 @@
             <element signature="e#763#764#0" expanded="true" />
             <element signature="e#793#794#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zme/effectiveJava/静态工厂代替构造器/PersonEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="18" column="49" lean-forward="true" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zme/effectiveJava/构建器/Iec104Message.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
         </state>
       </provider>
     </entry>
